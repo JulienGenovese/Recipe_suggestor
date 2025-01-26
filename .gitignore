@@ -1,1 +1,7 @@
 venv/
+config/openai.toml
+data/ricette/easy-recipes-for-one-or-two.json
+data/ricette_to_elaborate/easy-recipes-for-one-or-two.pdf
+data/ricette_to_elaborate/ricettario_dietetico.pdf
+notebooks/**
+src/__pycache__
